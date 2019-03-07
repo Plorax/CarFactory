@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFactory", "CarFactory\CarFactory.csproj", "{1CB956F2-2D40-44D4-8D03-71827D59BB74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCard", "ScreenCard\ScreenCard.csproj", "{FCBC7EFD-EAEE-4544-85BA-A0999E2B0B92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9B3F6E9E-9238-47C9-9C4D-9656175750A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB956F2-2D40-44D4-8D03-71827D59BB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB956F2-2D40-44D4-8D03-71827D59BB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB956F2-2D40-44D4-8D03-71827D59BB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB956F2-2D40-44D4-8D03-71827D59BB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBC7EFD-EAEE-4544-85BA-A0999E2B0B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBC7EFD-EAEE-4544-85BA-A0999E2B0B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBC7EFD-EAEE-4544-85BA-A0999E2B0B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBC7EFD-EAEE-4544-85BA-A0999E2B0B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3F6E9E-9238-47C9-9C4D-9656175750A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3F6E9E-9238-47C9-9C4D-9656175750A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3F6E9E-9238-47C9-9C4D-9656175750A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3F6E9E-9238-47C9-9C4D-9656175750A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
